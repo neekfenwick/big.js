@@ -1,5 +1,6 @@
 {
   "name": "big.js",
+  "dojoBuild": "big.js.profile.js",
   "description": "A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic",
   "version": "6.2.1",
   "keywords": [
